@@ -1,3 +1,5 @@
 env_mecab/
 __pycache__/
 /webapp/mecab-ipadic-neologd_ec2
+*.key
+*.csr
